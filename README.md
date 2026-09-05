@@ -72,7 +72,7 @@ Contributed to event management and coordination during the event, gaining exper
 ---
 
 ## 📫 Connect With Me
-- 💼 LinkedIn: [My LinkedIn](https://www.linkedin.com/in/k-poojith-316958303/)
+- 💼 LinkedIn: [My LinkedIn](https://www.linkedin.com/in/k-poojith/)
 - 🐙 GitHub: [@KPoojith95](https://github.com/KPoojith95)
 
 ---
