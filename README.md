@@ -22,11 +22,10 @@ I'm currently building my skills in Python, SQL, Web Development, and Git/GitHub
 **Languages & Databases**
 - Python
 - SQL / MySQL
-- JavaScript
 
 **Web Development**
 - HTML
-- CSS
+- css
 
 **Libraries**
 - Pandas
@@ -47,9 +46,6 @@ A student productivity dashboard built using HTML, CSS and JavaScript.
 **Features:** Task management, progress tracking, focus timer, dark mode and local storage.
 
 👉 Check out the repository: [Study Sphere](https://github.com/KPoojith95/study-sphere)
-
-### 🎟️ Movie Ticket Booking System
-A Python and SQL based project focused on implementing booking logic and database management.
 
 ---
 
